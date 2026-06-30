@@ -1,0 +1,13 @@
+# 로그
+.cursor/hooks/logs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# 에디터
+.vscode/
+*.log
+
+# 로컬 서버 (선택)
+node_modules/
